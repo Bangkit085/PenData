@@ -1,0 +1,11 @@
+version: 1
+
+project:
+  type: book
+  title: Laporan Penambangan Data
+
+site:
+  title: Laporan PenData
+
+exports:
+  - format: html

@@ -1,0 +1,19 @@
+version: 1
+
+project:
+  title: Penambangan Data
+
+site:
+  nav:
+    - title: Home
+      url: README
+    - title: Bab 1
+      url: bab1
+    - title: Bab 2
+      url: bab2
+    - title: Bab 3
+      url: bab3
+    - title: Bab 4
+      url: bab4
+    - title: Bab 5
+      url: bab5
